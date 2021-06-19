@@ -1,14 +1,20 @@
 name: " "
+output_dir: "."
 navbar:
   title: "ixaColombia"
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "aceerca de"
+    - text: "areas"
       icon: albums-outline
       href: about.html
     - text: "capacidades"
       href: capacidades.html
     - text: "escuela"
       href: escuela.html
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css
