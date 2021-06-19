@@ -1,0 +1,14 @@
+name: " "
+navbar:
+  title: "ixaColombia"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "aceerca de"
+      icon: albums-outline
+      href: about.html
+    - text: "capacidades"
+      href: capacidades.html
+    - text: "escuela"
+      href: escuela.html
