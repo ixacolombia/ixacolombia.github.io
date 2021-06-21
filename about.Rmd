@@ -1,5 +1,13 @@
 ---
-title: "areas"
+title: "  "
 ---
-
+![Información x  Análisis = Acción](img/banner5.png){width='3000px'}
 ixacolombia
+
++ Salud publica y Epidemiologia
+
++ Ensayos clinicos
+
++ Polotica social y Economia
+
++ Educacion

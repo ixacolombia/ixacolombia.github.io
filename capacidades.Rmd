@@ -1,6 +1,6 @@
 ---
-title: "capacidades"
-author: "ixacolombia"
+title: ""
+author: " "
 date: " "
 output: html_document
 ---
@@ -8,3 +8,28 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![Información x  Análisis = Acción](img/banner3.png){width='3000px'}
+
+
+Nuestro equipo de trabajo está conformado por profesionales de varias disciplinas con experiencias nacionales e internacionales. Los diferentes enfoques de nuestros profesionales permiten abarcar múltiples áreas temáticas, tales como economía, sociología, politología, estadística, comunicación, administración, comercial y mercadeo digital. 
+
+Además en el equipo se mezclan experiencias académicas y de mercado con el fin de mantener un elevado nivel de innovación y al mismo tiempo la capacidad y experiencia para poder satisfacer de la mejor forma a las exigencias del cliente.
+
+Diseñamos consultorías a la medida del cliente, dependiendo de sus requerimientos
+
+
++ Recopilacion de datos / Investigacion de encuestas
++ Monitoreo de campañas / Satisfacción del consumidor
++ Reputación en Linea / Análisis del clima organizacional
++ Análisis de Posicionamiento de Marca / Estudios de Factibilidad de Mercado
++ Evaluacion de impacto
++ Tecnologia de la informacion
++ Estadistica
++ Mineria de datos / Segmentación y Caracterización de Clientes
++ Asistencia tecnica
++ Capacitación Empresarial
+
+ 
+
+

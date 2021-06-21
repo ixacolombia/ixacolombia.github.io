@@ -1,5 +1,5 @@
 ---
-title: "escuela"
+title: " "
 author: "ixacolombia"
 date: " "
 output: html_document
@@ -8,3 +8,25 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+![Información x  Análisis = Acción](img/banner4.png){width='3000px'}
+
+### Capacitación Empresarial
+
++ Microsoft 365
+ + Excel 1 Básico
+ + Excel 2 Intermedio
+ + Excel 3 Avanzado
+ + Word 1 Básico
+ + Word 2 Avanzado
+ + Power Point 1 Básico
+ + Power Point 2 Avanzado
+ + Power BI
+ + ASP.NET
+
++ R / RStudio
++ Pyton
++ Microsoft SQL Server
+
+
+
+
