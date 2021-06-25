@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](img/banner001.png){width='600px'}
 
 
-#### Nuestro equipo de trabajo está conformado por profesionales de varias disciplinas con experiencias nacionales e internacionales. Los diferentes enfoques de nuestros profesionales permiten abarcar múltiples áreas temáticas, tales como economía, sociología, politología, estadística, comunicación, administración, comercial y mercadeo digital. 
+#### Nuestro equipo de trabajo está conformado por profesionales de varias disciplinas con experiencias nacionales e internacionales. Los diferentes enfoques de nuestros profesionales permiten abarcar múltiples áreas temáticas, tales como economía, sociología, politología, estadística, salud pública, comunicación, administración, comercial y mercadeo digital. 
 
 #### Además en el equipo se mezclan experiencias académicas y de mercado con el fin de mantener un elevado nivel de innovación y al mismo tiempo la capacidad y experiencia para poder satisfacer de la mejor forma a las exigencias del cliente.
 
