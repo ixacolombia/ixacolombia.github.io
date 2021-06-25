@@ -8,24 +8,29 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-![](img/banner001.png){width='300px'}
+![](img/banner001.png){width='600px'}
 
-### Capacitación Empresarial
+#### **Capacitación Empresarial**
 
-+ Microsoft 365
- + Excel 1 Básico
- + Excel 2 Intermedio
- + Excel 3 Avanzado
- + Word 1 Básico
- + Word 2 Avanzado
- + Power Point 1 Básico
- + Power Point 2 Avanzado
- + Power BI
- + ASP.NET
+|                          |                    |
+|:-------------------------|:-------------------|
+| * Microsoft 365          |  * ASP.NET         |
+| * Excel 1 Básico         |  * R/RStudio       |
+| * Excel 2 Intermedio     |  * Markdown        |
+| * Excel 3 Avanzado       |  * GitHub          |
+| * Word 1 Básico          |                    |
+| * Word 2 Avanzado        |                    |
+| * Power Point 1 Básico   |                    |
+| * Power Point 2 Avanzado |                    |
+| * Power BI               |                    |
+| * Microsoft SQL Server   |                    |
 
-+ R / RStudio
-+ Phyton
-+ Microsoft SQL Server
+
+ 
+
+
+
+
 
 
 
