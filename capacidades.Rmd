@@ -28,7 +28,11 @@ knitr::opts_chunk$set(echo = TRUE)
 #### * Estadística Básica, Intermedia y Avanzada
 #### * Mineria de datos / Segmentación y Caracterización de Clientes
 #### * Asistencia técnica
-#### * Capacitación Empresarial
+#### * Capacitación Empresarial, certificación profesional, y diseño de currículo a medida
+
+
+
+
 
  
 
