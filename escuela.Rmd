@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
  + ASP.NET
 
 + R / RStudio
-+ Pyton
++ Phyton
 + Microsoft SQL Server
 
 

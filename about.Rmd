@@ -1,13 +1,13 @@
 ---
 title: "  "
 ---
-![](img/banner001.png){width='300px'}
+![](img/banner001.png){width='500px'}
 
 
-+ Salud publica y Epidemiologia
+### Salud publica y Epidemiologia
 
-+ Ensayos clinicos
+### Ensayos clinicos
 
-+ Polotica social y Economia
+### Politica social y Economia
 
-+ Educacion
+### Educacion
