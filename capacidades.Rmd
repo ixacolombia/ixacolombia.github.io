@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### * Análisis de Posicionamiento de Marca / Estudios de Factibilidad de Mercado
 #### * Evaluación de impacto
 #### * Tecnologia de la información
-#### * Estadística
+#### * Estadística Básica, Intermedia y Avanzada
 #### * Mineria de datos / Segmentación y Caracterización de Clientes
 #### * Asistencia técnica
 #### * Capacitación Empresarial
