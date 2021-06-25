@@ -6,6 +6,6 @@ output:
      toc_float: true
 ---
 
-![Información x  Análisis = Acción](img/banner2.png){width='3000px'}
+![](img/banner001.png){width='300px'}
 
 

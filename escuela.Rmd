@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-![Información x  Análisis = Acción](img/banner4.png){width='3000px'}
+![](img/banner001.png){width='300px'}
 
 ### Capacitación Empresarial
 

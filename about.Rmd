@@ -1,8 +1,8 @@
 ---
 title: "  "
 ---
-![Información x  Análisis = Acción](img/banner5.png){width='3000px'}
-ixacolombia
+![](img/banner001.png){width='300px'}
+
 
 + Salud publica y Epidemiologia
 

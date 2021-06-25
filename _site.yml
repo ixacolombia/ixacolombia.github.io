@@ -1,7 +1,7 @@
 name: " "
 output_dir: "."
 navbar:
-  title: "ixaColombia"
+  title: " "
   left:
     - text: "Home"
       icon: fa-home
