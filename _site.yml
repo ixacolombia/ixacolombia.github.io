@@ -6,12 +6,12 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "areas"
+    - text: "Areas"
       icon: albums-outline
       href: about.html
-    - text: "capacidades"
+    - text: "Nuestro Equipo"
       href: capacidades.html
-    - text: "escuela"
+    - text: "Entrenamiento"
       href: escuela.html
 
 output:
