@@ -3,17 +3,10 @@ output_dir: "."
 navbar:
   title: " "
   left:
-    - text: "Home"
+    - text: "ixaColombia"
       icon: fa-home
       href: index.html
-    - text: "Areas"
-      icon: albums-outline
-      href: about.html
-    - text: "Nuestro Equipo"
-      href: capacidades.html
-    - text: "Entrenamiento"
-      href: escuela.html
-
+   
 output:
   html_document:
     theme: flatly

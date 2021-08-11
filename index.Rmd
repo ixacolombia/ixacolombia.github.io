@@ -11,17 +11,29 @@ output:
     toc_depth: '2'
 ---
 
-![](img/banner001.png){width='600px'}
-
+# **ixaColombia **
 ![](img/fondo1.jpg){width='2000px'}
+![](img/1.png)<br/>
 
-## **Proyectos**
-
-
-
-
-## **Nuestros clientes**
+# **Nuestro Equipo**
 
 
+<br/><br/><br/>
+![](img/2.png)<br/>
 
-## **Contactenos**
+<br/><br/><br/>
+![](img/3.png)<br/>
+
+<br/><br/><br/>
+![](img/4.png)<br/>
+
+
+# **Nuestra oferta**
+<br/>
+![](img/6.png)<br/>
+![](img/7.png)<br/>
+
+
+# **Contactos**
+<br/><br/><br/>
+![](img/8.png)<br/>
