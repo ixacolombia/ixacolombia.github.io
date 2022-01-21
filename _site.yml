@@ -1,9 +1,9 @@
-name: " "
+name: "ixa"
 output_dir: "."
 navbar:
   title: " "
   left:
-    - text: "ixaColombia"
+    - text: " "
       icon: fa-home
       href: index.html
    
